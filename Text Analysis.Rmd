@@ -1,5 +1,5 @@
 ---
-title: "Data Mining Assignment"
+title: "Amazon Data Mining Project"
 author: "Olutoye Dolapo"
 date: "2024-02-19"
 output: html_document
